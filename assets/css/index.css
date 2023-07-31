@@ -6,20 +6,12 @@
   font-size: larger;
 }
 
-.carousel .carousel-inner {
+.carousel  {
   width: 80%;
   height: 20%;
   margin: 0 auto;
 }
 
-@media (min-width: 992px) {
-  .carousel-inner .carousel-item {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 20%;
-  }
-}
 
 .footer-column {
   text-align: center;
