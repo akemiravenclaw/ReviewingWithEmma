@@ -1,1 +1,35 @@
-// Variables
+// styles.scss
+
+$color-primary: #004AAD;
+$font-family: 'QuickSand', sans-serif; 
+.navbar {
+  background-color: #AEAAAA;;
+  $font-family: 'QuickSand', sans-serif; 
+}
+
+.nav-link {
+  color: $color-primary !important;
+  font-size: larger;
+  $font-family: 'QuickSand', sans-serif;
+}
+
+.carousel {
+  width: 80%;
+  height: 20%;
+  margin: 0 auto;
+  $font-family: 'QuickSand', sans-serif;
+}
+
+.footer-column {
+  text-align: center;
+  padding: 15px;
+  $font-family: 'QuickSand', sans-serif;
+}
+
+.footer-image {
+  max-width: 100%;
+  max-height: 100px;
+  display: block;
+  margin: 0 auto;
+  $font-family: 'QuickSand', sans-serif;
+}

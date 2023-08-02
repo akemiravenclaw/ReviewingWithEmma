@@ -1,26 +1,21 @@
 .navbar {
   background-color: #AEAAAA;
 }
+
 .nav-link {
   color: #004AAD !important;
   font-size: larger;
-  font-family: 'Quicksand', sans-serif;
-
 }
 
-.carousel  {
+.carousel {
   width: 80%;
   height: 20%;
   margin: 0 auto;
-  font-family: 'Quicksand', sans-serif;
 }
-
 
 .footer-column {
   text-align: center;
   padding: 15px;
-  font-family: 'Quicksand', sans-serif;
-  
 }
 
 .footer-image {
@@ -28,5 +23,6 @@
   max-height: 100px;
   display: block;
   margin: 0 auto;
-  font-family: 'Quicksand', sans-serif;
 }
+
+/*# sourceMappingURL=styles.css.map */
